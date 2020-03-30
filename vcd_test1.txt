@@ -1,0 +1,39 @@
+$date
+June 26, 2011 10:05:41
+$end
+$version
+VERILOG
+-XL 2.7
+$end
+$timescale
+1 ps
+$end
+$scope module top $end
+$var wire 1 ! CLK $end
+$var wire 1 " RESET $end
+$var wire 1 # ENABLE $end
+$var wire 1 $ LOAD $end
+$var reg 4 % D [3:0] $end
+$var reg 4 & Q [3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+1"
+0#
+0$
+b1010 %
+b0000 &
+$end
+#6000
+0!
+#12000
+1!
+#16000
+1#
+#18000
+0!
+#24000
+1!
+#30000

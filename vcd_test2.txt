@@ -1,0 +1,225 @@
+$date
+   Tue Feb 19 14:59:09 2019
+$end
+$version
+  P.20131013
+$end
+$timescale
+  1ps
+$end
+$scope module mul_tb $end
+$var wire 1 C p [15] $end
+$var wire 1 D p [14] $end
+$var wire 1 E p [13] $end
+$var wire 1 F p [12] $end
+$var wire 1 G p [11] $end
+$var wire 1 H p [10] $end
+$var wire 1 I p [9] $end
+$var wire 1 J p [8] $end
+$var wire 1 K p [7] $end
+$var wire 1 L p [6] $end
+$var wire 1 M p [5] $end
+$var wire 1 N p [4] $end
+$var wire 1 O p [3] $end
+$var wire 1 P p [2] $end
+$var wire 1 Q p [1] $end
+$var wire 1 R p [0] $end
+$var reg 8 1 mp [7:0] $end
+$var reg 8 2 mc [7:0] $end
+$scope module dut $end
+$var wire 1 3 mp [7] $end
+$var wire 1 4 mp [6] $end
+$var wire 1 5 mp [5] $end
+$var wire 1 6 mp [4] $end
+$var wire 1 7 mp [3] $end
+$var wire 1 8 mp [2] $end
+$var wire 1 9 mp [1] $end
+$var wire 1 : mp [0] $end
+$var wire 1 ; mc [7] $end
+$var wire 1 < mc [6] $end
+$var wire 1 = mc [5] $end
+$var wire 1 > mc [4] $end
+$var wire 1 ? mc [3] $end
+$var wire 1 @ mc [2] $end
+$var wire 1 A mc [1] $end
+$var wire 1 B mc [0] $end
+$var wire 1 C p [15] $end
+$var wire 1 D p [14] $end
+$var wire 1 E p [13] $end
+$var wire 1 F p [12] $end
+$var wire 1 G p [11] $end
+$var wire 1 H p [10] $end
+$var wire 1 I p [9] $end
+$var wire 1 J p [8] $end
+$var wire 1 K p [7] $end
+$var wire 1 L p [6] $end
+$var wire 1 M p [5] $end
+$var wire 1 N p [4] $end
+$var wire 1 O p [3] $end
+$var wire 1 P p [2] $end
+$var wire 1 Q p [1] $end
+$var wire 1 R p [0] $end
+$var wire 1 S ump [7] $end
+$var wire 1 T ump [6] $end
+$var wire 1 U ump [5] $end
+$var wire 1 V ump [4] $end
+$var wire 1 W ump [3] $end
+$var wire 1 X ump [2] $end
+$var wire 1 Y ump [1] $end
+$var wire 1 Z ump [0] $end
+$var wire 1 [ umc [7] $end
+$var wire 1 \ umc [6] $end
+$var wire 1 ] umc [5] $end
+$var wire 1 ^ umc [4] $end
+$var wire 1 _ umc [3] $end
+$var wire 1 ` umc [2] $end
+$var wire 1 a umc [1] $end
+$var wire 1 b umc [0] $end
+$var wire 1 c sign $end
+$var wire 1 d up [15] $end
+$var wire 1 e up [14] $end
+$var wire 1 f up [13] $end
+$var wire 1 g up [12] $end
+$var wire 1 h up [11] $end
+$var wire 1 i up [10] $end
+$var wire 1 j up [9] $end
+$var wire 1 k up [8] $end
+$var wire 1 l up [7] $end
+$var wire 1 m up [6] $end
+$var wire 1 n up [5] $end
+$var wire 1 o up [4] $end
+$var wire 1 p up [3] $end
+$var wire 1 q up [2] $end
+$var wire 1 r up [1] $end
+$var wire 1 s up [0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 1
+b0 2
+0R
+0Q
+0P
+0O
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+0C
+0Z
+0Y
+0X
+0W
+0V
+0U
+0T
+0S
+0b
+0a
+0`
+0_
+0^
+0]
+0\
+0[
+0c
+0s
+0r
+0q
+0p
+0o
+0n
+0m
+0l
+0k
+0j
+0i
+0h
+0g
+0f
+0e
+0d
+0:
+09
+08
+07
+06
+05
+04
+03
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+$end
+#10000
+b1010 1
+b10100 2
+1O
+1L
+1K
+1Y
+1W
+1`
+1^
+1p
+1m
+1l
+19
+17
+1@
+1>
+#30000
+b11110110 1
+1N
+1M
+0L
+0K
+1J
+1I
+1H
+1G
+1F
+1E
+1D
+1C
+1c
+18
+07
+16
+15
+14
+13
+#50000
+b11101100 2
+0N
+0M
+1L
+1K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+0C
+0c
+1?
+0>
+1=
+1<
+1;
